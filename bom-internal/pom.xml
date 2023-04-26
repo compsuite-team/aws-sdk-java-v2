@@ -270,7 +270,7 @@
             <dependency>
                 <groupId>com.github.tomakehurst</groupId>
                 <artifactId>wiremock</artifactId>
-                <version>${wiremock.version}</version>
+                <version>2.25.1</version>
                 <scope>test</scope>
             </dependency>
             <dependency>
